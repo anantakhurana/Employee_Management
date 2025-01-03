@@ -61,6 +61,3 @@ Contributions are welcome! If you'd like to improve this project:
 ## Acknowledgments
 - Built with Django by Ananta Khurana 🚀
 - Inspired by the need for efficient employee management solutions.
-
----
-Feel free to customize this README to suit your project!
