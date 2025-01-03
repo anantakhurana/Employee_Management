@@ -62,7 +62,7 @@ Contributions are welcome! If you'd like to improve this project:
 This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
-- Built with Django by [Your Name](https://your-portfolio-link.com).
+- Built with Django by Ananta Khurana 🚀
 - Inspired by the need for efficient employee management solutions.
 
 ---
